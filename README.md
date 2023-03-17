@@ -10,7 +10,8 @@
 ## About me
 I'm Ryan, a junior at Amador Valley High (class of 2024). 
 ## Currently...
-Currently not working on any big projects, but the paper from my [UT Austin internship](https://github.com/nmokey/UTAustinInternship) is awaiting peer review and publication.
+Currently working as Software lead on the [NXP Hovergames Competition](https://github.com/nmokey/AVHovergames2023) in a team from Amador Valley High School.  
+The paper from my [UT Austin internship](https://github.com/nmokey/UTAustinInternship) is also currently awaiting peer review and publication.
 ## Stats
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmokey&show_icons=true&theme=react&hide=issues,prs)](https://github.com/nmokey/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmokey&layout=compact&theme=dark)](https://github.com/nmokey/github-readme-stats)
