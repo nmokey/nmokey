@@ -8,9 +8,11 @@
 
 # Ryan Zheng
 ## About me
-I'm Ryan, a junior at Amador Valley High (class of 2024). 
-## Currently...
-Currently working as Software lead on the [NXP Hovergames Competition](https://github.com/nmokey/AVHovergames2023) in a team from Amador Valley High School.  
+I'm [Ryan Zheng](https://nmokey.com), a senior at Amador Valley High School (class of 2024). In my free time I like to play jazz piano, work on art projects in media such as charcoal, gouache, watercolor, and acrylic, and play with my dog Sky.
+## Currently
+I'm currently working on some webdev for a personal project called [Computer Vision with Cute Voles](https://www.nmokey.com/CVwithCV/) as well as a community service project for the [Yangon Grace Church](https://ygngracechurch.org/)!
+## Previous projects
+Previously worked as Software lead on the [NXP Hovergames Competition](https://github.com/nmokey/AVHovergames2023) in a team from Amador Valley High School.  
 The paper from my [UT Austin internship](https://github.com/nmokey/UTAustinInternship) is also currently awaiting peer review and publication.
 ## Stats
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmokey&show_icons=true&theme=react&hide=issues,prs)](https://github.com/nmokey/github-readme-stats)  
