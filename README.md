@@ -6,6 +6,7 @@
 ## About me
 I'm [Ryan Zheng](https://nmokey.com), a physics and data science engineering student at UCLA. In my free time I like to play jazz piano, go skiing and hiking, play tennis, run, and play with my dog Sky.
 ## Experience
-- I'm currently a Software Development intern at Amazon, working on ML infra distributed platforms for our Alexa AI Research teams.  
+- I was most recently a Software Development intern at Amazon, working on ML infra distributed platforms for our Alexa AI Research teams.  
 - Previously I was a Generative AI Intern at Scale AI, working on evaluation infra for agentic SWE models.  
 - I also am doing [ML research](https://github.com/nmokey/ScAI-Lab) at the UCLA Scalable Analytics institute.
+- I am interested in contributing to Python & ML open source software.
